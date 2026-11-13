@@ -1,0 +1,13 @@
+{
+  "name": "boardroom",
+  "version": "0.1.0",
+  "description": "Business-school frameworks as agent skills: SWOT, Porter's Five Forces, BCG, Ansoff, Blue Ocean, Business Model Canvas, market sizing, unit economics and more. Works in English, French and Spanish.",
+  "author": {
+    "name": "teodstr",
+    "url": "https://github.com/teodstr"
+  },
+  "homepage": "https://github.com/teodstr/boardroom",
+  "repository": "https://github.com/teodstr/boardroom",
+  "license": "MIT",
+  "keywords": ["business", "strategy", "marketing", "consulting", "mba", "swot", "case-study"]
+}

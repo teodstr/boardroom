@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "boardroom",
+  "description": "Business-school frameworks as skills for AI agents.",
+  "owner": {
+    "name": "teodstr",
+    "url": "https://github.com/teodstr"
+  },
+  "plugins": [
+    {
+      "name": "boardroom",
+      "description": "SWOT, Porter, BCG, Blue Ocean, market sizing, unit economics and 10 more frameworks, in English, French and Spanish.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

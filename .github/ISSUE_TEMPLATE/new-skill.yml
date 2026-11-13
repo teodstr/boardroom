@@ -1,0 +1,48 @@
+name: New skill
+description: Propose a framework to add as a skill.
+title: "New skill: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting a framework! Please check the [roadmap](https://github.com/teodstr/boardroom/blob/main/ROADMAP.md) and the open issues first, so that two people don't write the same skill.
+  - type: input
+    id: framework
+    attributes:
+      label: Framework
+      description: Its usual name, and its authors if you know them.
+      placeholder: "McKinsey 7S (Waterman, Peters & Phillips, 1980)"
+    validations:
+      required: true
+  - type: input
+    id: skill-name
+    attributes:
+      label: Proposed skill name
+      description: In kebab-case. It becomes the folder name, `skills/<skill-name>/`.
+      placeholder: "mckinsey-7s"
+  - type: textarea
+    id: use-case
+    attributes:
+      label: When would someone use it?
+      description: The questions or assignments where this framework is the right tool, and what it adds to the existing skills.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources
+      description: Original references that anyone can check (authors, year, title, journal or publisher).
+      placeholder: "Waterman, R. H., Peters, T. J., & Phillips, J. R. (1980). Structure is not organization. Business Horizons, 23(3), 14–26."
+    validations:
+      required: true
+  - type: dropdown
+    id: author
+    attributes:
+      label: Do you want to write this skill?
+      options:
+        - Yes, I'd like to write it
+        - I can help (sources, terminology, review)
+        - No, I'm only suggesting it
+    validations:
+      required: true

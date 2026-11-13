@@ -38,8 +38,8 @@ Frameworks we'd love to add. Each one is a good first contribution: pick one, op
 ## Entrepreneurship
 
 - [ ] `lean-canvas`: one-page plan for startups (Maurya)
-- [ ] `customer-interviews`: interviews that avoid false positives (Fitzpatrick, *The Mom Test*)
-- [ ] `pitch-deck-review`: structure and weak points of a pitch deck
+
+Customer interviews, pitch decks, MVPs, funding and other startup skills live in [garage](https://github.com/teodstr/garage), boardroom's sister project.
 
 ## Sustainability
 

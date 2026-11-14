@@ -30,10 +30,10 @@ Frameworks we'd love to add. Each one is a good first contribution: pick one, op
 ## Organization and people
 
 - [ ] `kotter-change`: the eight steps of leading change (Kotter, 1996)
-- [ ] `stakeholder-mapping`: power–interest grid (Mendelow)
 - [ ] `hofstede-culture`: cultural dimensions for international business
 - [ ] `okr`: objectives and key results
-- [ ] `raci`: roles and responsibilities
+
+Stakeholder maps, RACI matrices and other project management skills live in [workbench](https://github.com/teodstr/workbench), boardroom's sister project.
 
 ## Entrepreneurship
 

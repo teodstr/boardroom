@@ -3,11 +3,15 @@ name: business-analysis
 description: >
   Structure any business question or case study like a strategy consultant: frame
   the decision, pick the right frameworks, back every point with evidence and end
-  with a clear recommendation. Use for case studies, "analyze this company",
-  strategy questions (market entry, growth, turnaround) and business-school
-  assignments. Triggers: "case study", "business case", "analyze this company",
-  "what should X do", "étude de cas", "analyse stratégique", "recommandation
-  stratégique", "caso práctico", "análisis estratégico", "qué debería hacer".
+  with a clear recommendation. Use this skill whenever a company, a founder or a
+  student must choose between strategic options (open a new location, enter a
+  city or a country, launch a product or a channel first, grow or cut), even when
+  the question is short, as well as for case studies, "analyze this company" and
+  business-school assignments. Triggers: "case study", "business case", "analyze
+  this company", "what should X do", "should we open", "expand to", "étude de cas",
+  "analyse stratégique", "faut-il ouvrir", "s'implanter", "recommandation
+  stratégique", "caso práctico", "análisis estratégico", "qué debería hacer",
+  "deberíamos abrir".
 ---
 
 # Business analysis
